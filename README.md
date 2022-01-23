@@ -107,12 +107,46 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-##User interfaces:
+### User interfaces:
+
 ![login1](https://user-images.githubusercontent.com/64628178/150663766-025813b3-43a6-46be-a206-703f8b4dd648.PNG)
+
 ![course selection ui1](https://user-images.githubusercontent.com/64628178/150663771-0cf6378c-fe66-40a2-b8f5-c96184dbf032.PNG)
+
 ![ui course sel](https://user-images.githubusercontent.com/64628178/150663782-3e9d4f69-1176-4bd5-95d4-43e20fcc867f.PNG)
+
 ![sco1](https://user-images.githubusercontent.com/64628178/150663812-a96ada0b-c885-47a5-9533-1f67e86d2f1c.PNG)
+
 ![sco2](https://user-images.githubusercontent.com/64628178/150663818-3ecf9f19-1d41-4290-8185-68aa6a134e64.PNG)
+
 ![sco3](https://user-images.githubusercontent.com/64628178/150663822-54be6547-85a9-4841-8523-555cfd020413.PNG)
+
 ![sco4](https://user-images.githubusercontent.com/64628178/150663826-e8411353-5e1b-4a2f-951f-0c17072fee71.PNG)
+
 ![scoreUi](https://user-images.githubusercontent.com/64628178/150663841-f6cef0d2-0ca9-4c8d-ab4d-e8a2fdaf2d7c.PNG)
+
+![ui withdraw](https://user-images.githubusercontent.com/64628178/150663870-54daf811-1c07-4096-8c2c-28794eeda8ad.PNG)
+
+![create course ui](https://user-images.githubusercontent.com/64628178/150663878-51155b9e-3dbc-4e0d-a2e5-f2a580a0cbd1.PNG)
+
+![create course ui1](https://user-images.githubusercontent.com/64628178/150663883-f705da1d-0b73-4d0f-bb4b-6861d09d28fe.PNG)
+
+![create teacher1 UI](https://user-images.githubusercontent.com/64628178/150663898-93b78e2b-1041-4597-9169-1216eac750cc.PNG)
+
+![create teacher2 UI](https://user-images.githubusercontent.com/64628178/150663905-a0016780-955b-4d12-a193-850657b73601.PNG)
+
+![createClass1 UI](https://user-images.githubusercontent.com/64628178/150663918-72f4483e-94bd-4278-9d05-b66405427dba.PNG)
+
+![createClass2 UI](https://user-images.githubusercontent.com/64628178/150663922-67abfb8a-8722-48a5-963f-785c8b584441.PNG)
+
+![createClass3 UI](https://user-images.githubusercontent.com/64628178/150663925-970ab836-4af3-470e-a280-f61162d0f660.PNG)
+
+![stim1](https://user-images.githubusercontent.com/64628178/150663938-3c29e3ca-d443-4edb-9731-f251b091a910.PNG)
+
+![teacher table ui](https://user-images.githubusercontent.com/64628178/150663944-bb1f3eee-dc79-4f45-a157-0995467cec72.PNG)
+
+![showScore UI](https://user-images.githubusercontent.com/64628178/150663959-0e0eb52b-dc4a-4eaf-b2c7-f9120ca8d61e.PNG)
+
+![showClassfcourse UI1](https://user-images.githubusercontent.com/64628178/150663963-dfd675ca-e484-47ab-9a74-3e76d0a7e5d2.PNG)
+
+![showClassfcourse UI2](https://user-images.githubusercontent.com/64628178/150663964-b2599d53-8d0f-4c58-9b39-c4e04cb77b0e.PNG)
