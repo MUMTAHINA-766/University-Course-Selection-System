@@ -107,5 +107,12 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
-
+##User interfaces:
+![login1](https://user-images.githubusercontent.com/64628178/150663766-025813b3-43a6-46be-a206-703f8b4dd648.PNG)
+![course selection ui1](https://user-images.githubusercontent.com/64628178/150663771-0cf6378c-fe66-40a2-b8f5-c96184dbf032.PNG)
+![ui course sel](https://user-images.githubusercontent.com/64628178/150663782-3e9d4f69-1176-4bd5-95d4-43e20fcc867f.PNG)
+![sco1](https://user-images.githubusercontent.com/64628178/150663812-a96ada0b-c885-47a5-9533-1f67e86d2f1c.PNG)
+![sco2](https://user-images.githubusercontent.com/64628178/150663818-3ecf9f19-1d41-4290-8185-68aa6a134e64.PNG)
+![sco3](https://user-images.githubusercontent.com/64628178/150663822-54be6547-85a9-4841-8523-555cfd020413.PNG)
+![sco4](https://user-images.githubusercontent.com/64628178/150663826-e8411353-5e1b-4a2f-951f-0c17072fee71.PNG)
+![scoreUi](https://user-images.githubusercontent.com/64628178/150663841-f6cef0d2-0ca9-4c8d-ab4d-e8a2fdaf2d7c.PNG)
